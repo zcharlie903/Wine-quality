@@ -82,14 +82,3 @@ Metrics are written under `runs/latest/summaries/`.
 
 This project uses the [UCI Wine Quality dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality). Place the CSV in the project root as `winequality-red.csv`.
 
----
-
-## 📜 License
-
-MIT License — see `LICENSE`.
-
----
-
-## ✉️ Contact
-
-For questions or collaboration, reach out at **zcharlie903@gmail.com**.
